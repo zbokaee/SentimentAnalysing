@@ -4,6 +4,8 @@ SentimentAnalysing <br/>
 :one:  SA of the tweet considering sub phrases. <br/>
 :two: SA of the tweet as a whole. <br/>
 
+:bangbang: This project is under construction ..... <br> 
+
 :point_right:Prerequisites:
 
  1) Python 2.6 or higher
