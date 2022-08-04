@@ -12,3 +12,4 @@ SentimentAnalysing <br/>
  5) SentiWordNet http://sentiwordnet.isti.cnr.it
  6) Sentiment_classifier 0.5 https://pypi.python.org/pypi/sentiment_classifier
  7) LIBSVM :https://github.com/cjlin1/libsvm
+
